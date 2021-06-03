@@ -16,9 +16,13 @@ export default AgeTotaller;
 
 const AgeCounter = () => {
 
-return
+  // 2 Buttons with on click. 
+  
+<div classname ="AgeCounter">
 <button onclick ={}>Add A Year</button> 
 <button onclick ={}>Add New Life</button>
+<h3>Display Current Age</h3>
+</div>
 }
 
 
